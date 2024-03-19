@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@solana/web3.js": "^1.73.0",
-    "@taquito/signer": "^13.0.1",
+    "@taquito/signer": "^19.0.2",
     "@taquito/taquito": "^13.0.1",
     "@taquito/utils": "^13.0.1",
     "@tezos-core-tools/crypto-utils": "^0.0.7",
